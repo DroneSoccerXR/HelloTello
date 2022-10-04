@@ -5,3 +5,8 @@ You can find the code here: https://github.com/Kragrathea/TelloLib
 
 On Raspberry Pi Zero with Xbox:
 https://github.com/erviveksoni/raspberrypi-controlled-tello
+
+
+Tutorial for Raspberry Pi and Python:
+- https://pypi.org/project/djitellopy/
+  - https://github.com/damiafuentes/DJITelloPy/blob/master/examples/manual-control-opencv.py
